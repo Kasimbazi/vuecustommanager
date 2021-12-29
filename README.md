@@ -1,0 +1,2 @@
+# vuecustommanager
+crudapplication
